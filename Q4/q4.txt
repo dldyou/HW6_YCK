@@ -1,0 +1,6 @@
+source - https://www.t-money.co.kr/ncs/pct/ugd/ReadTrcrStstDtl.dev;jsessionid=fQTNj3Wl4Kb3DZxHfw5gvxlE3pk6ac9JUO0trpG64KeUjM7CxDWfWxbzqGSskQZa.czzw01ip_servlet_tmyweb?useYm=202303&rgtDtm=20230403094521
+우선 matplot 라이브러리에서 한글을 적용하기 위해 font_manager를 이용해주었다.
+batang.tcc 폰트를 설치한 후 이용해주시기 바랍니다. ("C:/Windows/Fonts/batang.ttc") 해당 경로에 있어야 함
+
+출근시간에 상위 10개의 최대 승차 / 하차 / 승하차역을 보았을 때 2호선의 비율이 가장 높은 것을 볼 수 있다.
+또한 출근시간이다보니 주거 지역에서 회사가 밀집해 있는 지역으로의 이동이 많은 것을 확인할 수 있다.

@@ -1,0 +1,9 @@
+source - https://data.kma.go.kr/stcs/grnd/grndTaList.do?pgmNo=70
+전국 - all
+서울 - seoul
+대전 - daejeon
+부산 - busan
+제주 - jeju
+
+전국 대비 더 더운 지역(6개월 이상 전국보다 기온이 높거나 같은 지역): 서울, 대전, 부산, 제주 
+전국 대비 더 추운 지역(전국 대비 더 더운 지역이 아닌 지역): X
