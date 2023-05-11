@@ -11,7 +11,7 @@ import csv
 #             x = r.randint(1, 6)
 #             dice.append(x)
 
-#         file_name = f"./test/Q2/sample{N}.csv"
+#         file_name = f"./sample{N}.csv"
 #         f = open(file_name, "w", encoding="cp949")
 #         f.write("dice\n")
 #         for i in range(N):
